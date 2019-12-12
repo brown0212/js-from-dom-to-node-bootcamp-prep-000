@@ -1,4 +1,4 @@
 let person1 = "laressa"
 let person2 = "jason"
 
-console.log(' i love you, ' + person1 +'
+console.log(' i love you, ' + person1 +' '!')
